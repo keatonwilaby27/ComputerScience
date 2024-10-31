@@ -18,6 +18,6 @@ if password == "skibidi":
    print("access granted")
 
 else:
-    print(" acces denied")
+    print(" access denied")
 
 
